@@ -37,7 +37,7 @@ export default {
 <style lang="scss" scoped>
 
 .movie-card {
-  width: 600px;
+  max-width: 600px;
   border-top: 2px solid #235789;
   padding: 20px 0;
   h3 { margin-bottom: 5px; }
